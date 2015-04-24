@@ -27,4 +27,7 @@ public class qualquer_nome {
         }
         return false;
     }
+
+   public void faznada(){
+   }
 }
