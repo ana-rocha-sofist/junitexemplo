@@ -17,7 +17,7 @@ public class qualquer_nome {
                 }
             }
         }
-        return false;
+        return true;
     }
 
     //Deve retornar verdadeiro se o usuario tiver 18 anos ou mais
